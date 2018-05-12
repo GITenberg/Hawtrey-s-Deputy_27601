@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1256
     wikipedia: http://en.wikipedia.org/wiki/Harold_Edward_Bindloss
 description: 'Published in U.S. under title: Masters of the Wheat-Lands.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27601#Hawtrey-s-Deputy
 gutenberg_issued: '2008-12-23'
 gutenberg_type: Text
 identifiers:
